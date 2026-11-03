@@ -45,4 +45,4 @@ function mouseDragged () {
     happyAudio.amp(distortion);
     scaryMusic.amp((1.0 - distortion));
   } 
-}
+} 
